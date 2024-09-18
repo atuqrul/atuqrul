@@ -29,6 +29,6 @@
 <li><a target="_blank" href="https://github.com/atuqrul/SampleProject">.Net SampleProject</a></li>
 <li><a target="_blank" href="https://github.com/dotnet/maui/discussions/24698">.NET MAUI updates in .NET 9</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/atuqrul" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/ali-tugrul/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=atuqrul&show_icons=true&locale=en&layout=compact" alt="atuqrul" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atuqrul" alt="atuqrul" /></a></p>
